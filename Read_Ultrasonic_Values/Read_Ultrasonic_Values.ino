@@ -1,4 +1,5 @@
 //Take a reading from an Ultrasonic sensor and post it to Adafruit.IO
+//November 2016 - Afrooz Samaei
 
 #include "config.h"
 #include <NewPing.h>
